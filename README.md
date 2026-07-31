@@ -16,4 +16,4 @@ This project uses Machine Learning algorithms to estimate used car prices. The m
 - FastAPI
 - Joblib
 
-## 📂 Project Structure
+##  Project Structure
